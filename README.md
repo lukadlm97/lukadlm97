@@ -1,4 +1,4 @@
-👋 Hi, I’m Luka Radovanovic, I'm 23, and I'm from Serbia 🇷🇸
+👋 Hi, I’m Luka Radovanovic, I'm 24, and I'm from Serbia 🇷🇸
 
 👀 I’m interested in Web development and Data science 
 
