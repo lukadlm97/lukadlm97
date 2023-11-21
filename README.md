@@ -1,4 +1,4 @@
-👋 Hi, I’m Luka Radovanovic, a 25-year-old software developer from Serbia 🇷🇸
+👋 Hi, I’m Luka Radovanovic, a 26-year-old software developer from Serbia 🇷🇸
 
 📖 I’m currently learning .NET, C#, React.js, Typescript, Python, R etc. and am interested in web development and data science.
 
